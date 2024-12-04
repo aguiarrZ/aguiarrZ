@@ -17,7 +17,7 @@
 > Desde da minha infância, sempre achei a tecnologia fascinante e, consequentemente, aprendi a programar e desenvolver sistemas. Com o passar do tempo, trabalhei em alguns projetos de games e servidores, e hoje continuo procurando por novas maneiras de inovar e resolver problemas da maneira mais otimizada possível. Portanto, procuro aprimorar cada vez mais minhas habilidades e ajudar em projetos referentes ao mundo da tecnologia da informação.
 
 ### **Ferramentas | Tools**
-> ![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=visualstudio&logoColor=9A84F1)
+> ![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=9A84F1)
 > ![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=9A84F1)
 
 ### **Meus Conhecimentos | My Skills**
