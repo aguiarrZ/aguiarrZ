@@ -15,12 +15,6 @@
 > ![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=9A84F1)
 > ![Git](https://img.shields.io/badge/Git-3d3638?style=flat&logo=git&logoColor=9A84F1)
 
-### **Meus Conhecimentos | My Skills**
-> ![HTML](https://img.shields.io/badge/HTML5-3d3638?style=flat&logo=html5&logoColor=9A84F1)
-> ![CSS](https://img.shields.io/badge/CSS3-3d3638?style=flat&logo=css3&logoColor=9A84F1)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-3d3638?style=flat&logo=javascript&logoColor=9A84F1)
-> ![Pawn](https://img.shields.io/badge/♟️%20Pawn-3d3638?style=flat&color=9A84F1)
-
 ### **Contato | Contact**
 <div>
   <a href="https://discord.com/users/1285666105427234949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-9A84F1?style=for-the-badge&logo=discord&logoColor=9A84F1&label=jdkaguiar" alt="Discord"></a>
