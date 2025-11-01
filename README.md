@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/1285666105427234949"><img style="min-width: 134px; max-height: 134px;" width="320" src="https://lanyard.cnrad.dev/api/1285666105427234949?theme=dark&bg=00000000&idleMessage=Programming....&hideTimestamp=true" alt="Discord Status" /></a>
+  <a href="https://discord.com/users/837892167128055838"><img style="min-width: 134px; max-height: 134px;" width="320" src="https://lanyard.cnrad.dev/api/837892167128055838?theme=dark&bg=00000000&idleMessage=Programming....&hideTimestamp=true" alt="Discord Status" /></a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=AguiarDevn&icon=5&color=1)](https://visitcount.itsvg.in)
