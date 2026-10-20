@@ -17,7 +17,7 @@
 
 ### **Contato | Contact**
 <div>
-  <a href="https://discord.com/users/1285666105427234949" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-9A84F1?style=for-the-badge&logo=discord&logoColor=9A84F1&label=jdkaguiar" alt="Discord"></a>
+  <a href="https://discord.com/users/837892167128055838" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-9A84F1?style=for-the-badge&logo=discord&logoColor=9A84F1&label=iamaguiar_" alt="Discord"></a>
 </div>
 
 <div align="center">
